@@ -9,7 +9,7 @@ A deterministic Python program that draws Wednesday 25 November 2026 world news 
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
